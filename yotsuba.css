@@ -1,0 +1,39 @@
+body {
+background: #ffe url(https://github.com/ShockAwer/momoha-css/raw/main/fade.png) top center repeat-x;
+    color: maroon;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 10pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.ftdc {
+    background-color: #ea8;
+    color: #800;
+    font-weight: 700;
+    border: 1px solid #800;
+    padding: 0 5px;
+    font-size: 10pt;
+    width: 4.5em;
+}
+li {
+    font-size: 8pt;
+}
+
+.rtd {
+    max-width: 1800px;
+    padding-right: 8px;
+    background-color: #F0E0D6;
+    font-size: 10pt;
+    border: 1px solid #d9bfb7;
+    border-left: none;
+    border-top: none;
+    display: table;
+    padding: 2px;
+}
+.cno {
+    margin: 0 15px 0 5px;
+    text-decoration: none;
+}
